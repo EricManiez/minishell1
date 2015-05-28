@@ -1,0 +1,7 @@
+*.swp
+*.a
+.DS_Store
+*test.c
+*.o
+a.out
+ft_minishell1
